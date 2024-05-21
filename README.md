@@ -1,5 +1,4 @@
 # DevSecOps for OpenAI Chatbot UI Deployment
-![chatbotuidevops](https://github.com/SiddharthUchil/ChatGPT-UI-On-EKS/assets/36127139/6fccdbb6-3e76-4250-96b1-f4f7c78f031a)
 
 This project demonstrates a DevSecOps approach for deploying an OpenAI Chatbot UI application on an Amazon Elastic Kubernetes Service (EKS) cluster. The deployment process leverages Jenkins as the CI/CD tool, Docker for containerization, and Terraform for provisioning the EKS cluster.
 
